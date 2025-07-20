@@ -15,7 +15,7 @@ https://matrix-space-dashboard.vercel.app/
 ##  Technologies
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **Visualization**: [Chart.js](https://www.chartjs.org/) / [D3.js](https://d3js.org/)
-- **APIs**: [NASA Open APIs](https://api.nasa.gov/), [SpaceX API](https://docs.spacexdata.com)
+- **APIs**: [NASA Open APIs](https://api.nasa.gov/), [SpaceX API](https://docs.spacexdata.com) for data reference purposes 
 - **Hosting**: [Vercel](https://vercel.com)
 
 ## 🚀 Setup & Deployment
